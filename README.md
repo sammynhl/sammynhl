@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I'm Sam!
+I'm currently a CS student enrolled in Canada.
 
 <!--
 **sammynhl/sammynhl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
